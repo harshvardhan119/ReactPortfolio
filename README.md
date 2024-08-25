@@ -42,10 +42,10 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone gh repo clone harshvardhan119/ReactPortfolio
 
 
 ## Photos
-![alt text](image 11.png)
+![alt text](image2.png)
 ![alt text](image1.png)
-![alt text](image1.png)
+![alt text](image.png)
