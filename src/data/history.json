@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "SKYBUG Technologies ",
+    "startDate": "December, 2023",
+    "endDate": "January,224",
+    "experiences": ["Js developer", "React developer"],
+    "imageSrc": "history/Google.png"
+  },
+  {
+    "role": "Full Stack",
+    "organisation": "Marknox",
+    "startDate": "March, 2023",
+    "endDate": "may, 2023",
+    "experiences": ["React developer", "Php Developer"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Free Lance",
+    "organisation": "International client",
+    "startDate": "march, 2024",
+    "endDate": "june, 2020",
+    "experiences": [
+      "MERN",
+      "Firebase,AWS"
+    ],
+    "imageSrc": "history/natflix.png"
+  }
+]

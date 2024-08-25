@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Gyaanapp",
+    "imageSrc": "projects/image 13.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Dart", "Flutter", "Firebase"],
+    "demo": "https://youtu.be/QnPf1y3Nul0?feature=shared",
+    "source": "https://github.com/harshvardhan119/Gyaanapp"
+  },
+  {
+    "title": "WABI-SABI",
+    "imageSrc": "projects/image 14 (1).png",
+    "description": "This is a project made to learn about backend firebase .",
+    "skills": ["Dart", "Flutter", "Firebase"],
+    "demo": "https://youtu.be/VV7qvakIbo8",
+    "source": "https://github.com/harshvardhan119/Wabi-Sabi"
+  },
+  {
+    "title": "Web Application",
+    "imageSrc": "projects/main.png",
+    "description": "Builded a application and learned about different crud operations",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://github.com/harshvardhan119/Quadiroproject",
+    "source": "https://github.com/harshvardhan119/Quadiroproject"
+  }
+]
