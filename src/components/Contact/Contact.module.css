@@ -19,7 +19,7 @@
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -50,15 +50,25 @@
   .container {
     flex-direction: column;
     gap: 23px;
+   
   }
 
   .text {
     display: flex;
     flex-direction: column;
     align-items: center;
+    
   }
 
   .links {
     align-items: center;
+    
+  }
+  .link{
+    font-size: 15px;
+  }
+  
+  .link a{
+    font-size: 20px;
   }
 }

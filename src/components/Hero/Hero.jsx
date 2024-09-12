@@ -11,8 +11,8 @@ export const Hero = () => {
         <p className={styles.description}>
         "Every line of code you write is a step toward turning ideas into reality—keep pushing the boundaries of what's possible!"
         </p>
-        <a href="mailto:harshvardhansinghha@gmail.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="mailto:harshvardhansinghha@gmail.com" className={styles.button}>
+        <span>Contact Me </span>
         </a>
       </div>
       <img
